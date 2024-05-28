@@ -1,2 +1,2 @@
 # PHP-assignment
-This is assignments of php during Web Programming lectures.
+This are assignments of php during Web Programming lectures.
